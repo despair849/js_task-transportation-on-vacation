@@ -22,6 +22,9 @@ number of days.
 
 
 
+
+
+
 Examples:
 ```js
 calculateRentalCost(1); // 40
